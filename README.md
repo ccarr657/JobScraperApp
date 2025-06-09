@@ -9,5 +9,5 @@ This Python script scrapes job listings from the web (https://realpython.github.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the script using: `python JobScrapperApp/main.py`
+2. Run the script using: `python JobScrapperApp/realpythonfakejobs_scraper.py`
 
